@@ -8,11 +8,18 @@ A projekt részletes specifikációját PDF formátumban [itt](./NHF%20specifik�
 
 A menü előnézete:
 
-![MenuPreview](./MainMenuPreview.PNG)
+<p align="center">
+  <img src="./MainMenuPreview.PNG" alt="MenuPreview" width="300">
+</p>
 
 A turmesz előnézete:
 
-![TurmitePreview](./TurmitePreview.PNG)
+<p align="center">
+  <img src="./TurmitePreview.PNG" alt="TurmitePreview" width="400">
+</p>
 
 A projekt UML diagramja:
-![UML](https://github.com/user-attachments/assets/37b15cd8-410d-4361-89ff-e6a2e76853a9)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/37b15cd8-410d-4361-89ff-e6a2e76853a9" alt="UML" width="700">
+</p>
